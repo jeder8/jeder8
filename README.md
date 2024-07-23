@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @jeder8
 - 👀 I’m interested in ... aprender
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Com a Tecnologia
 - 📫 How to reach me ... jeder@professor.educacao.sp.gov.br
 - ⚡ Fun fact: ... Sou professor de História que ama tecnologia
 
